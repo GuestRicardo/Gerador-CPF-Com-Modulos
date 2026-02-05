@@ -53,3 +53,4 @@ if (validacpf.valida()) {
   console.log('CPF inválido');
 }
 */
+console.log('teste');
